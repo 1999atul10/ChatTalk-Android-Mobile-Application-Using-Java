@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206097037543",
+    "project_id": "chattalk-4dd6f",
+    "storage_bucket": "chattalk-4dd6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206097037543:android:a82a8090fd292ff5f90a42",
+        "android_client_info": {
+          "package_name": "com.example.chattalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206097037543-btdgavqjsil38bni2i0skn8m1h782d5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV0ieoAW-ai8jylsyl70tndoOlpBEwgnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206097037543-btdgavqjsil38bni2i0skn8m1h782d5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
